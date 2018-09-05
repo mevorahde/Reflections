@@ -5,3 +5,7 @@ An empty repository is created. If the user runs 'git status' it will see that n
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a middle stage when you've added files to be commited, but has not been committed to make a repository. It gives the user the optortunity to reset a committed file, or add another file, before making a repository.
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area to commit mulitple files, making it easy to make one commit per logical change.
