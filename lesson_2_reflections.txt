@@ -13,3 +13,7 @@ You can use the staging area to commit mulitple files, making it easy to make on
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If what to fix a bug off of a different version, not to introduce another bug to the working version. Usually work teams have their own branch and can merge changes back into the master branch.
+
+5) How do the diagrams help you visualize the branch structure?
+
+Diagrams help to show the timeline when commits branch off into different branches and commits. 
