@@ -17,3 +17,7 @@ If what to fix a bug off of a different version, not to introduce another bug to
 5) How do the diagrams help you visualize the branch structure?
 
 Diagrams help to show the timeline when commits branch off into different branches and commits. 
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is taking code from one branch into a second branch, usually a master branch. It is represented in the diagram to think of situations where it's ok to merge two branches and when it's not ok to merge two branches.
