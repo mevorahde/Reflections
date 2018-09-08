@@ -21,3 +21,19 @@ Diagrams help to show the timeline when commits branch off into different branch
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is taking code from one branch into a second branch, usually a master branch. It is represented in the diagram to think of situations where it's ok to merge two branches and when it's not ok to merge two branches.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto Merging Pros:
+- Saves time
+- Easy to do with few git commands
+- Reads merging conflicts
+
+Auto Merging Cons: 
+- Doesn't know how to fix merging conflict
+
+Manual Merging Pros:
+- Can confirm there is no merging conflicts
+
+Manul Merging Cons:
+- Time consuming 
