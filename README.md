@@ -18,3 +18,7 @@ These files are preserved as a learning record, not as current Git
 documentation. Some terminology, explanations, and recommended practices may
 be incomplete or outdated. For a maintained command reference, see my
 [Git Cheat Sheet](https://mevorahde.github.io/Git_Cheat_Sheet/).
+
+## License
+
+The original reflections and documentation authored by David E. Mevorah are available under the [MIT License](LICENSE). Course prompts, instructions, and other third-party material are not covered by that license and remain subject to their respective owners' terms.
